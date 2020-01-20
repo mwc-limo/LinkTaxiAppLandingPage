@@ -13,7 +13,7 @@ const App = () => {
             <article className="br3 ba bg-near-white b--black-10 mv4 w-100 w-50-m w-25-l mw6 shadow-5 center">
 
                 <div className='pa3 center container'>
-                    <img className='pa1 pointer' src={linktaxi} alt="linktaxi"/>
+                    <img className='pa1' src={linktaxi} alt="linktaxi"/>
 
                     <a href="https://apps.apple.com/us/app/link-taxi/id1445721945">
                         <img className='pa1' src={apple} alt="apple"/>
