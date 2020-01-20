@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0297085e7588599d072fb6c414af926c",
+    "revision": "86da1ea761887d05c456a9d4d0bd59cc",
     "url": "/LinkTaxiAppLandingPage/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LinkTaxiAppLandingPage/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "913fc725fed4decc234e",
+    "revision": "0c44ff0a4459035788ce",
     "url": "/LinkTaxiAppLandingPage/static/css/main.797b152e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LinkTaxiAppLandingPage/static/js/2.39012652.chunk.js.LICENSE"
   },
   {
-    "revision": "913fc725fed4decc234e",
-    "url": "/LinkTaxiAppLandingPage/static/js/main.d96da931.chunk.js"
+    "revision": "0c44ff0a4459035788ce",
+    "url": "/LinkTaxiAppLandingPage/static/js/main.8908f503.chunk.js"
   },
   {
     "revision": "a0aae15769f46d174ce7",
