@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LinkTaxiAppLandingPage/precache-manifest.b209b3233ad834cecde78a35ecbf475c.js"
+  "/LinkTaxiAppLandingPage/precache-manifest.a843b29a5a81261917ad5eb0dfa0700f.js"
 );
 
 self.addEventListener('message', (event) => {

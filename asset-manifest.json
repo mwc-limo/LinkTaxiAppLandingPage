@@ -1,26 +1,21 @@
 {
   "files": {
-    "main.css": "/LinkTaxiAppLandingPage/static/css/main.797b152e.chunk.css",
-    "main.js": "/LinkTaxiAppLandingPage/static/js/main.8908f503.chunk.js",
-    "main.js.map": "/LinkTaxiAppLandingPage/static/js/main.8908f503.chunk.js.map",
+    "main.css": "/LinkTaxiAppLandingPage/static/css/main.bbe40806.chunk.css",
+    "main.js": "/LinkTaxiAppLandingPage/static/js/main.0f54f1f5.chunk.js",
     "runtime-main.js": "/LinkTaxiAppLandingPage/static/js/runtime-main.d0c08389.js",
-    "runtime-main.js.map": "/LinkTaxiAppLandingPage/static/js/runtime-main.d0c08389.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/LinkTaxiAppLandingPage/static/css/2.eb45ad44.chunk.css",
+    "static/css/2.16119842.chunk.css": "/LinkTaxiAppLandingPage/static/css/2.16119842.chunk.css",
     "static/js/2.39012652.chunk.js": "/LinkTaxiAppLandingPage/static/js/2.39012652.chunk.js",
-    "static/js/2.39012652.chunk.js.map": "/LinkTaxiAppLandingPage/static/js/2.39012652.chunk.js.map",
     "index.html": "/LinkTaxiAppLandingPage/index.html",
-    "precache-manifest.b209b3233ad834cecde78a35ecbf475c.js": "/LinkTaxiAppLandingPage/precache-manifest.b209b3233ad834cecde78a35ecbf475c.js",
+    "precache-manifest.a843b29a5a81261917ad5eb0dfa0700f.js": "/LinkTaxiAppLandingPage/precache-manifest.a843b29a5a81261917ad5eb0dfa0700f.js",
     "service-worker.js": "/LinkTaxiAppLandingPage/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/LinkTaxiAppLandingPage/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.797b152e.chunk.css.map": "/LinkTaxiAppLandingPage/static/css/main.797b152e.chunk.css.map",
     "static/js/2.39012652.chunk.js.LICENSE": "/LinkTaxiAppLandingPage/static/js/2.39012652.chunk.js.LICENSE",
     "static/media/linktaxi.png": "/LinkTaxiAppLandingPage/static/media/linktaxi.63d2b6b0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d0c08389.js",
-    "static/css/2.eb45ad44.chunk.css",
+    "static/css/2.16119842.chunk.css",
     "static/js/2.39012652.chunk.js",
-    "static/css/main.797b152e.chunk.css",
-    "static/js/main.8908f503.chunk.js"
+    "static/css/main.bbe40806.chunk.css",
+    "static/js/main.0f54f1f5.chunk.js"
   ]
 }
