@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LinkTaxiAppLandingPage/static/css/main.797b152e.chunk.css",
+    "main.js": "/LinkTaxiAppLandingPage/static/js/main.5b2ffce3.chunk.js",
+    "main.js.map": "/LinkTaxiAppLandingPage/static/js/main.5b2ffce3.chunk.js.map",
+    "runtime-main.js": "/LinkTaxiAppLandingPage/static/js/runtime-main.d0c08389.js",
+    "runtime-main.js.map": "/LinkTaxiAppLandingPage/static/js/runtime-main.d0c08389.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/LinkTaxiAppLandingPage/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.39012652.chunk.js": "/LinkTaxiAppLandingPage/static/js/2.39012652.chunk.js",
+    "static/js/2.39012652.chunk.js.map": "/LinkTaxiAppLandingPage/static/js/2.39012652.chunk.js.map",
+    "index.html": "/LinkTaxiAppLandingPage/index.html",
+    "precache-manifest.aee94e1d40510ca1a5cb3833e86e1a99.js": "/LinkTaxiAppLandingPage/precache-manifest.aee94e1d40510ca1a5cb3833e86e1a99.js",
+    "service-worker.js": "/LinkTaxiAppLandingPage/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/LinkTaxiAppLandingPage/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.797b152e.chunk.css.map": "/LinkTaxiAppLandingPage/static/css/main.797b152e.chunk.css.map",
+    "static/js/2.39012652.chunk.js.LICENSE": "/LinkTaxiAppLandingPage/static/js/2.39012652.chunk.js.LICENSE",
+    "static/media/linktaxi.png": "/LinkTaxiAppLandingPage/static/media/linktaxi.63d2b6b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0c08389.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.39012652.chunk.js",
+    "static/css/main.797b152e.chunk.css",
+    "static/js/main.5b2ffce3.chunk.js"
+  ]
+}
