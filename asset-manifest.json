@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LinkTaxiAppLandingPage/static/css/main.797b152e.chunk.css",
-    "main.js": "/LinkTaxiAppLandingPage/static/js/main.5c056d44.chunk.js",
-    "main.js.map": "/LinkTaxiAppLandingPage/static/js/main.5c056d44.chunk.js.map",
+    "main.js": "/LinkTaxiAppLandingPage/static/js/main.d96da931.chunk.js",
+    "main.js.map": "/LinkTaxiAppLandingPage/static/js/main.d96da931.chunk.js.map",
     "runtime-main.js": "/LinkTaxiAppLandingPage/static/js/runtime-main.d0c08389.js",
     "runtime-main.js.map": "/LinkTaxiAppLandingPage/static/js/runtime-main.d0c08389.js.map",
     "static/css/2.eb45ad44.chunk.css": "/LinkTaxiAppLandingPage/static/css/2.eb45ad44.chunk.css",
     "static/js/2.39012652.chunk.js": "/LinkTaxiAppLandingPage/static/js/2.39012652.chunk.js",
     "static/js/2.39012652.chunk.js.map": "/LinkTaxiAppLandingPage/static/js/2.39012652.chunk.js.map",
     "index.html": "/LinkTaxiAppLandingPage/index.html",
-    "precache-manifest.b8e16b48672cbd5301aace32069e8fa8.js": "/LinkTaxiAppLandingPage/precache-manifest.b8e16b48672cbd5301aace32069e8fa8.js",
+    "precache-manifest.aa8a95241547b13ba865dde7a5f60eb0.js": "/LinkTaxiAppLandingPage/precache-manifest.aa8a95241547b13ba865dde7a5f60eb0.js",
     "service-worker.js": "/LinkTaxiAppLandingPage/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/LinkTaxiAppLandingPage/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.797b152e.chunk.css.map": "/LinkTaxiAppLandingPage/static/css/main.797b152e.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.39012652.chunk.js",
     "static/css/main.797b152e.chunk.css",
-    "static/js/main.5c056d44.chunk.js"
+    "static/js/main.d96da931.chunk.js"
   ]
 }
