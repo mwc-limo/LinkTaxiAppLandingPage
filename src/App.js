@@ -7,7 +7,7 @@ import 'tachyons';
 
 const App = () => {
 
-    function getMobileOperatingSystem() {
+    function recognizeAndRedirectToTheStore() {
         const userAgent = navigator.userAgent || navigator.vendor || window.opera;
 
         if (/android/i.test(userAgent)) {
@@ -24,7 +24,7 @@ const App = () => {
 
     }
 
-    getMobileOperatingSystem();
+    recognizeAndRedirectToTheStore();
 
     return (
         <div className='background bg-light-blue pa3'>
