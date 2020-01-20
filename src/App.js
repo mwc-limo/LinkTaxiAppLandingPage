@@ -7,9 +7,28 @@ import 'tachyons';
 
 const App = () => {
 
+    function getMobileOperatingSystem() {
+        const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+        if (/android/i.test(userAgent)) {
+            window.open(
+                "https://play.google.com/store/apps/details?id=com.tiskel.tma.wroclawlinktaxi", "_self")
+
+
+        }
+
+        if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+            window.open(
+                "https://apps.apple.com/us/app/link-taxi/id1445721945", "_self");
+        }
+
+    }
+
+    getMobileOperatingSystem();
 
     return (
         <div className='background bg-light-blue pa3'>
+
             <article className="br3 ba bg-near-white b--black-10 mv4 w-100 w-50-m w-25-l mw6 shadow-5 center">
 
                 <div className='pa3 center container'>
